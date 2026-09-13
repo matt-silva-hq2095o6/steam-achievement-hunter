@@ -57,3 +57,5 @@ Force refresh the local cache for all queried games:
 ```cmd
 python hunter.py --refresh
 ```
+
+<!-- checked: 2026-09-13 -->
