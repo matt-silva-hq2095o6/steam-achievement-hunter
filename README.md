@@ -58,4 +58,4 @@ Force refresh the local cache for all queried games:
 python hunter.py --refresh
 ```
 
-<!-- checked: 2026-09-13 -->
+<!-- checked: 2026-09-14 -->
